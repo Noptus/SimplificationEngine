@@ -19,7 +19,7 @@ st.set_page_config(page_title="Hana Cleanup Tool", layout="wide")
 
 # --- App Introduction ---
 st.markdown("""
-### 👋 Welcome to the Hana Cleanup Tool
+### 👋 Welcome to the Hana Cleanup Tool, by Raphael Caillon
 
 This tool is designed for **business users** to help simplify and clean up large master data tables, like material master records. You can:
 
